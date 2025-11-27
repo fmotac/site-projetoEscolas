@@ -5,6 +5,7 @@ import TheSolution from './components/TheSolution';
 import Ecosystem from './components/Ecosystem';
 import Pricing from './components/Pricing';
 import Footer from './components/Footer';
+import DidacticMaterial from './components/DidacticMaterial';
 import PresentationPDF from './components/PresentationPDF';
 import WhatsAppButton from './components/WhatsAppButton';
 
@@ -45,8 +46,9 @@ const App: React.FC = () => {
         <TheSolution />
         <Ecosystem />
         <Pricing />
+        <DidacticMaterial />
       </div>
-      
+
       <Footer />
       <WhatsAppButton />
 
