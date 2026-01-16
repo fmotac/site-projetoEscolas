@@ -15,12 +15,12 @@ const Hero: React.FC<HeroProps> = ({ onDownloadPDF }) => {
         </div>
         
         <h1 className="text-4xl md:text-6xl font-black tracking-tight text-white mb-6 leading-[1.1] md:leading-[1.2]">
-          Revolucione o ensino médio<br className="hidden md:block"/>
+          Revolucione o ensino da sua instituição<br className="hidden md:block"/>
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-violet to-purple-400 block md:inline mt-2 md:mt-0">Curso Técnico / Profissionalizante</span>
         </h1>
         
         <h2 className="text-2xl md:text-4xl font-bold text-gray-200 mb-8">
-          Forme Desenvolvedores <span className="text-brand-orange underline decoration-brand-orange/50 underline-offset-4">Full Stack</span>
+          Desenvolvimento de Sistemas <span className="text-brand-orange underline decoration-brand-orange/50 underline-offset-4">Programadores Full Stack</span>
         </h2>
 
         <p className="text-lg md:text-xl text-gray-400 mb-10 max-w-3xl mx-auto leading-relaxed">
